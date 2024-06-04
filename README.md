@@ -5,8 +5,9 @@ Nama Kelompok : Sigma Division Ltd.
 Nama Program : Bubble shorting
 
 Nama Kelompok :
-  Edwin Jonatan Purba(231401091)
+      
+      Edwin Jonatan Purba(231401091)
   
-  Luthfi Zahram Panggabean (231401082)
+      Luthfi Zahram Panggabean (231401082)
   
-  Susena Yudha Wijaya (231401109)
+      Susena Yudha Wijaya (231401109)
