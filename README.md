@@ -2,7 +2,7 @@
 
 Nama Kelompok : Sigma Division Ltd.
 
-Nama Program : Bubble shorting
+Nama Program : Bubble sorting array dan vector
 
 Nama Kelompok :
       
